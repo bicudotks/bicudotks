@@ -1,4 +1,4 @@
-# Welcome to the EcoAcoustics and Avian Ecology Analysis Repository! 🎶🌿
+# Welcome to the EcoAcoustics and Avian Ecology Analysis Repository! 🎶🦉🌿
 
 ## About Me
 
