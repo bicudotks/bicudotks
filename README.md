@@ -1,3 +1,4 @@
+![Alt text](https://raw.githubusercontent.com/bicudotks/bicudotks/6e656c6f17085c95414a3a2b32433df31d4a1e8b/Unknown.png)
 # Welcome to the EcoAcoustics and Avian Ecology Analysis Repository! 🎶🦉🌿
 
 ## About Me
