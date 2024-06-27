@@ -22,7 +22,7 @@ To get started with the tools and analyses in this repository, you'll need to ha
 ## Find me here
 
 <p align="left">
-  <a href="www.linkedin.com/in/thiago-bicudo-302190274"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/thiago-bicudo-302190274"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.researchgate.net/profile/Thiago-Bicudo"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 <a href="https://bicudotks.wordpress.com"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"></a>
 
